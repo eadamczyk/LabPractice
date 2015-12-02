@@ -5,7 +5,7 @@ output:
 ---
 # Lab Practice Repo
 
-### A place to practice lab GitHub stuffs and other things that are cool
+### A place to practice lab GitHub stuffs and other things that are cool :octocat:
 
 
 *Some thoughts on life*
